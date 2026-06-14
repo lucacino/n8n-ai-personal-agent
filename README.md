@@ -1,4 +1,4 @@
-# n8n AI Agent — Personal Assistant 🤖
+# n8n AI Agent — Personal Assistant
 
 > Agente AI personale costruito su n8n che riceve comandi via Telegram e gestisce autonomamente email, calendario e rubrica contatti.
 
